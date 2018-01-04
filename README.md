@@ -1,2 +1,3 @@
 # SpaceInvaders
-Java implementation of SpaceInvaders
+Java implementation of Space Invaders
+ 
